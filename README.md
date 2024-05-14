@@ -1,5 +1,5 @@
 
-## DiffRA: General-Purpose Restorative Adversarial Attack based on Diffusion Model </sub>
+## DiffRA: Restorative Adversarial Attack based on Diffusion Model </sub>
 
 
 
